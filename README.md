@@ -58,10 +58,7 @@ This submission is intended for an informed computing professional, such as a pr
 ## Repository Structure
 
 - `problems.ipynb`: Main notebook with solutions and explanations.
-- `assessment.md`: Assessment rubric and guidelines.
-- `problems/`: Additional problem-related files (if any).
-- `resources/`: Data files like `rockyou.txt`.
-- `test/`: Test data files (`primes.0000`, `sha1_constants.txt`).
+- `test-resources/`: Test data files (`primes.0000`, `sha1_constants.txt`, `rockyou.txt`).
 - `README.md`: This file.
 
 ## Notes
