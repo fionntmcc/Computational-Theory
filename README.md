@@ -1,12 +1,12 @@
 # Computational Theory Assignment
 
-This repository contains solutions to the Computational Theory module assessment problems. The main deliverable is `problems.ipynb`, a Jupyter notebook implementing various cryptographic functions and algorithms, including SHA-1 and SHA-256 primitives, message padding, and hash computation.
+This repository contains solutions to the Computational Theory module assessment problems. The main deliverable is `problems.ipynb`, a Jupyter notebook implementing various cryptographic functions and algorithms defined in the [Secure Hash Standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf), including SHA-1 and SHA-256 primitives, message padding, and hash computation.
 
 The notebook is structured with clear explanations, code implementations, and tests for each problem. It demonstrates understanding of hashing algorithms, bitwise operations, and computational theory concepts.
 
 ## Target Audience
 
-This submission is intended for an informed computing professional, such as a prospective employer. It assumes familiarity with programming concepts and cryptographic basics but provides detailed explanations and references.
+This submission is intended for an informed computing professional, such as a prospective employer. It assumes familiarity with programming concepts and cryptographic basics but provides detailed explanations and references of technologies and algorithms used.
 
 ## Setup Instructions
 
@@ -30,9 +30,9 @@ This submission is intended for an informed computing professional, such as a pr
    ```
 
 4. **Data files**: All necessary data files are included in the repository:
-   - `test/primes.0000`: List of prime numbers for testing.
-   - `test/sha1_constants.txt`: Expected SHA constants for validation.
-   - `resources/rockyou.txt`: Common passwords list for Problem 5.
+   - `data/primes.0000`: List of prime numbers for testing.
+   - `data/sha1_constants.txt`: Expected SHA constants for validation.
+   - `data/rockyou.txt`: Common passwords list for Problem 5.
 
 ## Usage
 
@@ -58,7 +58,7 @@ This submission is intended for an informed computing professional, such as a pr
 ## Repository Structure
 
 - `problems.ipynb`: Main notebook with solutions and explanations.
-- `test-resources/`: Test data files (`primes.0000`, `sha1_constants.txt`, `rockyou.txt`).
+- `data/`: Test data files (`primes.0000`, `sha1_constants.txt`, `rockyou.txt`).
 - `README.md`: This file.
 
 ## Notes
