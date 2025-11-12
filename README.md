@@ -13,7 +13,7 @@ This submission is intended for an informed computing professional, such as a pr
 1. **Clone the repository**:
    ```
    git clone https://github.com/fionntmcc/Computational-Theory.git
-   cd Computational-Theory
+   cd computational-theory
    ```
 
 2. **Install dependencies**:
